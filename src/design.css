@@ -1,0 +1,140 @@
+
+.a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+  
+    
+  }
+  .a:hover{
+    background-color: aliceblue;
+  
+  }
+  
+  
+  
+  
+   .box{
+    width: 300px;
+    height:150px;
+    text-align: left;
+    border: 1px solid white;
+    background-color: orange; 
+  }
+  
+  .box1{
+    height: 300px;;
+    width: 300px;
+    border: 1px solid black;
+  
+  }
+  
+  .footer{
+    background-color: rgb(47, 153, 156);
+    text-align: center;
+    margin-top: 35px;
+  
+  
+  }
+  .text-primary{
+    font-size: 25px;
+    background-color: rgb(237, 247, 247);
+  }
+  
+  .image{
+    height:90px;
+    width: 100px;
+    border-radius: 20%;
+    margin-left: 15px;
+  }
+  
+  .company{
+    background-color: rgb(10, 87, 87);
+    color:white;
+    text-align: left;
+    font-weight: 100;
+  }
+  .bt{
+    height: 55px;
+    
+  
+  }
+  .bt:hover{
+    box-shadow: 5px 5px 10px  rgb(10, 87, 87);
+  }
+  .link:hover{
+    box-shadow: 5px 5px 10px rgb(10, 87, 87);
+    border-radius: 10%;
+  }
+  .signup{
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    height: 535px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .login{
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    height: 535px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .help{
+    position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    height: 535px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  .phone{
+    height: 90px;
+    max-width: 90px;
+    border-radius: 50%;
+    background-color: rgb(39, 245, 39);
+  }
+  .email{
+    height: 90px;
+    max-width: 90px;
+    border-radius: 50%;
+    background-color: rgb(39, 245, 39);
+  }
+  .news1{
+  height:400px;
+  width: 100px;
+  border:1px solid black;
+  }
+  .news2{
+  height: 200px;
+  width: 490px;
+  border:1px solid black;
+  }
+  .news21{
+    height: 200px;
+    width: 490px;
+    border:1px solid black;
+  }
+  .news3{
+  height: 400px;
+  width: 100px;
+  border:1px solid black;
+  }
+  .news1.h5{
+    text-align: center;
+    padding: 50px;
+  } .news2.h5{
+    text-align: center;
+    padding: 50px;
+  }
